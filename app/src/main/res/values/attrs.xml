@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <declare-styleable name="ShapeView">
+        <attr name="squareColor" format="color|reference"/>
+        <attr name="circleColor" format="color|reference"/>
+        <attr name="triangleColor" format="color|reference"/>
+    </declare-styleable>
+</resources>
