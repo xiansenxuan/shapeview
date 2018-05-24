@@ -11,5 +11,5 @@ Add shapeview to your project
 Image
 ========
 <img src="https://github.com/xiansenxuan/shapeview/blob/master/images/2018-05-24_145415.png" width = "320" height = "480" alt="sample"/>
-<img src="https://github.com/xiansenxuan/shapeview/blob/master/images/2018-05-24_145423.png" width = "320" height = "480" alt="sample"/>
 <img src="https://github.com/xiansenxuan/shapeview/blob/master/images/2018-05-24_145441.png" width = "320" height = "480" alt="sample"/>
+<img src="https://github.com/xiansenxuan/shapeview/blob/master/images/2018-05-24_145951.png" width = "320" height = "480" alt="sample"/>
